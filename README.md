@@ -1,3 +1,10 @@
+Author: Meha Gaba
+
+A content-based recommendation system for Amazon products using TF-IDF and cosine similarity.
+
+## Salary Expectation
+$4500 per month
+
 This dataset is from Kaggle and includes ~300 Amazon products with metadata such as name, main category, sub category, rating, and price.
 
 Instructions on how to download and use the dataset are in download_data.py if you want to fetch and clean the data yourself.
